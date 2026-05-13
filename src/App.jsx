@@ -39,5 +39,6 @@ function App() {
   }
 
   return <CalendarView session="{session}"/>
-  export default App;
+
 }
+  export default App;
