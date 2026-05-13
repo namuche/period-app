@@ -9,18 +9,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.x.x",
-    "lucide-react": "^0.x.x",
-    "react": "^18.x.x",
-    "react-calendar": "^4.x.x",
-    "react-dom": "^18.x.x"
-  },  <-- ESTA COMA ES VITAL
+    "@supabase/supabase-js": "^2.43.2",
+    "lucide-react": "^0.378.0",
+    "react": "^18.2.0",
+    "react-calendar": "^4.8.0",
+    "react-dom": "^18.2.0"
+  },
   "devDependencies": {
-    "@types/react": "^18.x.x",
-    "@types/react-dom": "^18.x.x",
-    "@vitejs/plugin-react": "^4.x.x",
-    "vite": "^5.x.x"
-  }, <-- OTRA COMA AQUÍ SI SIGUE ALGO ABAJO
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.2.0"
+  },
   "engines": {
     "node": ">=18.0.0"
   }
